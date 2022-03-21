@@ -1,5 +1,5 @@
 module.exports = {
-  content: ['./dist/**/*.{html,js}'],
+  content: ['./docs/**/*.{html,js}'],
   theme: {
     fontFamily: {
       sans: ['neue-haas-grotesk-text', 'sans-serif'],
